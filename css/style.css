@@ -1,0 +1,28 @@
+.fullbg {
+  background-image: url(../images/bg.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #000;
+}
+
+.font-color-white {
+  color: white;
+}
+
+.content {
+  margin: 1rem;
+}
+
+.v-center {
+  margin-top: auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-rounded {
+  border-radius: 10%;
+}
