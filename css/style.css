@@ -26,3 +26,10 @@
 .img-rounded {
   border-radius: 10%;
 }
+
+@media (max-width: 767px) {
+  .column-reverse {
+    flex-direction: column-reverse;
+    display: flex;
+  }
+}
